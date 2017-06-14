@@ -1,4 +1,4 @@
-# ffxiv-340-project
+# ffxiv-340-archive
 ffxiv 3.40 version Korean database
 
 ## app_sqlite
